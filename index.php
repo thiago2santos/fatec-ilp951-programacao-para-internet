@@ -8,7 +8,7 @@
 <body>
     <h1>Pagina Principal</h1>
     <hr>
-    <h2><a href="categoriaCAD.php">Cadastrar Categorias</a></h2>
+    <h2><a href="categorias">Cadastrar Categorias</a></h2>
     <h2><a href="#">Consultar Categorias</a></h2>
     <h2><a href="#">Cadastrar Produtos</a></h2>
     <h2><a href="#">Consultar Produtos</a></h2>
