@@ -1,0 +1,15 @@
+table {
+    width: 50%;
+}
+
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+}
+
+th#codigo {
+    width: 20%;
+}
+table,th,td {
+    border: 1px solid black; 
+    border-collapse: collapse;
+}
